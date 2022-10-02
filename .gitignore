@@ -1,0 +1,9 @@
+*.pyc
+/data/data/*
+/static/*
+/.idea/.gitignore
+/.idea/bidder.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules.xml

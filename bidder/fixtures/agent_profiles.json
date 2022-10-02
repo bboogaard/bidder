@@ -1,0 +1,46 @@
+[
+  {
+    "model": "bidder.agentprofile",
+    "pk": 1,
+    "fields": {
+      "name": "Aggressive-quitter",
+      "max_bid": "[]",
+      "inc_bid": "[\"5\", \"10\"]",
+      "dec_bid": "[]",
+      "pass_after": "[\"1\", \"3\"]"
+    }
+  },
+  {
+    "model": "bidder.agentprofile",
+    "pk": 2,
+    "fields": {
+      "name": "Careful-quitter",
+      "max_bid": "[]",
+      "inc_bid": "[\"3\", \"5\"]",
+      "dec_bid": "[]",
+      "pass_after": "[\"1\", \"3\"]"
+    }
+  },
+  {
+    "model": "bidder.agentprofile",
+    "pk": 3,
+    "fields": {
+      "name": "Aggressive-stayer",
+      "max_bid": "[]",
+      "inc_bid": "[\"6\", \"10\"]",
+      "dec_bid": "[]",
+      "pass_after": "[\"4\", \"5\"]"
+    }
+  },
+  {
+    "model": "bidder.agentprofile",
+    "pk": 4,
+    "fields": {
+      "name": "Careful-stayer",
+      "max_bid": "[]",
+      "inc_bid": "[\"1\", \"5\"]",
+      "dec_bid": "[]",
+      "pass_after": "[\"4\", \"5\"]"
+    }
+  }
+]

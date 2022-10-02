@@ -1,0 +1,24 @@
+[
+  {
+    "model": "bidder.strategy",
+    "pk": 1,
+    "fields": {
+      "name": "Careful",
+      "max_bid": 120,
+      "inc_bid": 3,
+      "dec_bid": 3,
+      "pass_after": 3
+    }
+  },
+  {
+    "model": "bidder.strategy",
+    "pk": 2,
+    "fields": {
+      "name": "Aggressive",
+      "max_bid": 120,
+      "inc_bid": 5,
+      "dec_bid": 5,
+      "pass_after": 5
+    }
+  }
+]
